@@ -1,0 +1,2 @@
+TRUNCATE erabiltzaileak;
+TRUNCATE balorazioa;
